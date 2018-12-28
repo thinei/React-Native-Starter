@@ -6,7 +6,7 @@
   
   > password = 123456
 
-  Following "dependencies" are included:
+  The following "dependencies" are included:
   
     "axios": "^0.18.0",
     "firebase": "^4.3.0",
